@@ -17,33 +17,33 @@ List<ProjectUtils> projectUtils = [
   ProjectUtils(
     banners: 'assets/imgs/02.png',
     icons: 'assets/imgs/flutter.png',
-    titles: 'Awesome Social Media App',
+    titles: 'Carry Me',
     description:
-        'This is a just Fully functional Social media App by using flutter, source code is also available, check below.',
-    links: 'https://github.com/sudeshnb/poetically-.git',
+        'A practical solution to modern day world problems, CarryMe is a platform established to provide delivery services worldwide by connecting travelers – carriers, as we like to call – with people wanting to order from abroad. Customers can also register as verified carriers',
+    links: 'https://pk.linkedin.com/company/carrymeaesier',
   ),
   ProjectUtils(
     banners: 'assets/imgs/1.png',
     icons: 'assets/imgs/flutter.png',
-    titles: 'Awesome CRM UI',
+    titles: 'HealthTok',
     description:
-        'This is a just CRM UI Design using Figma, file is also available, check below.',
-    links: 'https://github.com/sudeshnb/',
+        'It’s a doctor Patient app Doctor get Temperature, Heart Beat, Step count of Patient through smart watch and apple watch and also can chat & video call, book appointment included in this application.',
+    links: 'https://github.com/vdotok',
   ),
   ProjectUtils(
     banners: 'assets/imgs/03.png',
     icons: 'assets/imgs/flutter.png',
-    titles: 'Exercise App',
+    titles: 'The GIft Guide',
     description:
-        'This is a just Fully function Exercise App by using flutter, source code is also available, check below.',
-    links: 'https://github.com/sudeshnb/elderly_exercise_app.git',
+        'focusing on web scraping, generic components, web views, and cross-platform UI for an enhanced gift discovery experience',
+    links: 'https://thegiftguide.com/',
   ),
   ProjectUtils(
     banners: 'assets/imgs/04.png',
     icons: 'assets/imgs/flutter.png',
-    titles: 'Awesome Plant App UI',
+    titles: 'Convierge',
     description:
-        'This is a just Plant App UI by using flutter, source code is also available, check below.',
-    links: 'https://github.com/sudeshnb/flutter_plant_app.git',
+        'Real Estate App, revolutionizing property search and transactions. Our app offers intuitive property listings, interactive 3D tours, smart filters, and secure transactions for a seamless real estate experience',
+    links: '',
   ),
 ];
