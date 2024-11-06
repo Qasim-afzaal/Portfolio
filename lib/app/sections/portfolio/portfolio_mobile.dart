@@ -18,7 +18,7 @@ class PortfolioMobileTab extends StatelessWidget {
     double height = MediaQuery.of(context).size.height;
     return Column(
       children: [
-        const CustomSectionHeading(text: "\nProjects"),
+        const CustomSectionHeading(text: "\nPortfolio"),
         Space.y(3.w)!,
         Padding(
           padding: EdgeInsets.symmetric(horizontal: 10.w),
