@@ -4,7 +4,7 @@ import 'package:mysite/core/res/responsive.dart';
 
 class NavBarLogo extends StatelessWidget {
   const NavBarLogo({Key? key}) : super(key: key);
-
+ 
   @override
   Widget build(BuildContext context) {
     // theme
@@ -12,6 +12,7 @@ class NavBarLogo extends StatelessWidget {
     //
     var textSty = TextStyle(
       color: theme.textColor,
+      fontStyle: FontStyle.italic,
       fontWeight: FontWeight.w100,
       fontSize: Responsive.isDesktop(context) ? 32 : 20,
     );
