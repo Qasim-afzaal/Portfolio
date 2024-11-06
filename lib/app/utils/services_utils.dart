@@ -16,28 +16,22 @@ List<ServicesUtils> servicesUtils = [
     name: 'Android App Development',
     icon: 'assets/icons/android.svg',
     description:
-        "Are you interested in the great Mobile app? Let's make it a reality.",
-    tool: ['Flutter', 'React Native', 'Android (Kotlin or Java)'],
+        "Are you interested in the great Native Android Mobile app? Let's make it a reality.",
+    tool: ['Kotlin', 'Java','React Native'],
   ),
   ServicesUtils(
-    name: 'iOS App Development',
+    name: 'IOS App Development',
     icon: 'assets/icons/apple.svg',
     description:
-        "Are you interested in the great Mobile app? Let's make it a reality.",
-    tool: ['Flutter', 'React Native'],
+        "Are you interested in the great Native IOS Mobile app? Let's make it a reality.",
+    tool: ['Swift', 'C++','React Native'],
   ),
   ServicesUtils(
-    name: 'UI/UX Designing',
-    icon: 'assets/icons/graphic.svg',
+    name: 'Flutter',
+    icon: 'assets/icons/flutter-svgrepo-com.svg',
     description:
-        "I'm creating elegant designs suited to your needs following core design theory. ",
-    tool: ['Adobe XD', 'Figma', 'Photoshop'],
+        "Do you have an idea for your next great Cross-platform app? Let's make it a reality.",
+    tool: ['Flutter', 'Dart','web','desktop'],
   ),
-  ServicesUtils(
-    name: 'Web Development',
-    icon: 'assets/icons/website.svg',
-    description:
-        "Do you have an idea for your next great website? Let's make it a reality.",
-    tool: ['Flutter', 'Html,css,js', 'Android (Kotlin or Java)'],
-  ),
+ 
 ];
