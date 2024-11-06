@@ -24,7 +24,7 @@ class _PortfolioDesktopState extends State<PortfolioDesktop> {
       padding: EdgeInsets.symmetric(horizontal: size.width / 8),
       child: Column(
         children: [
-          const CustomSectionHeading(text: "\nProjects"),
+          const CustomSectionHeading(text: "\Portfolio"),
           Space.y(1.w)!,
           CustomSectionSubHeading(text: protfolioSubHeading),
           Space.y(2.w)!,
