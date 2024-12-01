@@ -1,6 +1,6 @@
 // CV
 const String resume =
-    'https://drive.google.com/file/d/11V64E60CUQ93K7yb5QzBE7OL-XG1C1fp/view?usp=drive_link';
+    'https://drive.google.com/file/d/11GC2Q27qetUf2HPfIPJuZqCA1aOLdmp_/view?usp=sharing';
 
 // Github Link
 const String gitHub = 'https://github.com/Qasim-afzaal/';
@@ -16,7 +16,7 @@ const String linkedin = 'https://www.linkedin.com/in/qasim-dev/';
 // Github Link
 const String buymeacoffee = 'https://www.linkedin.com/in/qasim-ali-004a63215';
 // Github Link
-const String instagram = 'https://www.linkedin.com/in/qasim-ali-004a63215';
+const String instagram = 'https://www.instagram.com/official_qasim_ali/profilecard/?igsh=MWN1eGw1aWtkM2Z3Yw==';
 // socialLinks
 // const List<String> socialLinks = [
 //   "https://facebook.com/sudeshnb",
