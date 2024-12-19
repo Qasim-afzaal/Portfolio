@@ -44,17 +44,17 @@ extension ThemeExtras on ThemeData {
   Color get navBarColor => brightness == Brightness.light
       ? const Color(0xffF0F0F0)
       : const Color(0xFF00040F);
-  //
+  
   Color get textColor => brightness == Brightness.light
       ? const Color(0xFF403930)
       : const Color(0xFFFFF8F2);
-  //
+  
   Color get secondaryColor => const Color(0xFFFE53BB);
-  //
+
   Gradient get serviceCard =>
       brightness == Brightness.light ? grayWhite : grayBack;
 
-  //
+  
   Gradient get contactCard =>
       brightness == Brightness.light ? grayWhite : contactGradi;
 }
